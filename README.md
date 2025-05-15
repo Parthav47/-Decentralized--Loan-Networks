@@ -36,9 +36,5 @@ Future Scope
  • Trail Fraud Detection AI model
  • OTP generator via Contact number
  • WhatsApp P2P platform
- • Attempt of Fraud detection using
- Blockchain 
+ • Attempt of Fraud detection using Blockchain 
 
-License
-
-MIT License
